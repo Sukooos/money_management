@@ -1,0 +1,25 @@
+{
+  "name": "money-personal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sukooos/money_management.git"
+  },
+  "keywords": [
+    "personal"
+  ],
+  "author": "Sukooos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sukooos/money_management/issues"
+  },
+  "homepage": "https://github.com/Sukooos/money_management#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
